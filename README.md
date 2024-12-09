@@ -32,7 +32,7 @@ This repository contains a series of Jupyter Notebooks that cover various topics
 ## Resources
 ------------
 
-* [PyTorch documentation]((https://pytorch.org/docs/stable/index.html))
+* [PyTorch documentation](([Docs](https://pytorch.org/docs/stable/index.html)))
 * [PyTorch tutorials]((https://www.youtube.com/playlist?list=PLKnIA16_Rmvboy8bmDCjwNHgTaYH2puK7))
 * [Deep learning CampusX]((https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn))
 
