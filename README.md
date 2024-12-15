@@ -49,4 +49,6 @@ This repository contains a series of Jupyter Notebooks that cover various topics
 ----------
 
 * [ ] Complete PyTorch basics notebook
+* [ ] Complete PyTorch Training Pipeline
 * [ ] Implement a simple neural network using PyTorch
+* [ ] Model Training using Dataset and Dataloader Class
